@@ -4,11 +4,12 @@ J'ai incorporé presque tout le contenu de **DD5** disponible sur **AideDD,org**
 J'ai ajouté la source [AideDD.org] en bas de chaque page.
 
 Résumé :
-**Table des Matières** (C'est le **cœur** du projet, ca permet d'utiliser le module comme un **livre**) pour les liens des joueurs & une deuxième table pour les liens du Maître.
-**L'introduction**, une page de présentation de **AideDD** avec des liens utiles.
-**Les règlements, Création de personnage, Personnalité et historique, Caractéristiques, Options de personnalisation, Dons, Aventure, Combat Incantations, Conditions.**
+**Table des Matières** (C'est le **cœur** du projet, ca permet d'utiliser le module comme un **livre**) pour les liens des joueurs & une deuxième table pour les liens du Maître.\
+**L'introduction**, une page de présentation de **AideDD** avec des liens utiles.\
+**Les règlements, Création de personnage, Personnalité et historique, Caractéristiques, Options de personnalisation, Dons, Aventure, Combat Incantations, Conditions.**\
 **Races & sous-races** *(je vais probablement ajouter celles de Héros Dragons dans un dossier à part)*
 **Classes & sous-classes** *(je vais probablement ajouter celles de Héros Dragons dans un dossier à part)*
+
 J'ai ajouté toutes les capacités de chaque classes & sous-classes, races & sous-races dans les pages.
 J'ai aussi ajouté des liens dans chaque classe vers les capacités disponibles.
 On peut même drag and drop les liens vers les personnages!
