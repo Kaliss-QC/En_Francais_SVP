@@ -1,6 +1,3 @@
-<a><img src="http://dump.thecybershadow.net/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
-
-
 Salut,
 
 J'ai incorporé presque tout le contenu de **DD5** disponible sur **AideDD,org** dans un module pour **Foundry VTT**.\
