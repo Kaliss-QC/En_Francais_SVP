@@ -1,3 +1,4 @@
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 Salut,
 
 J'ai incorporé presque tout le contenu de **DD5** disponible sur **AideDD,org** dans un module pour **Foundry VTT**.\
