@@ -1,7 +1,6 @@
 Salut,
 
-J'ai incorporé presque tout le contenu de **DD5** disponible sur **AideDD,org** dans un module pour **Foundry VTT**.
-J'ai ajouté la source [AideDD.org] en bas de chaque page.
+J'ai incorporé presque tout le contenu de **DD5** disponible sur **AideDD,org** dans un module pour **Foundry VTT**. </p>J'ai ajouté la source [AideDD.org] en bas de chaque page.
 
 Résumé :
 **Table des Matières** (C'est le **cœur** du projet, ca permet d'utiliser le module comme un **livre**) pour les liens des joueurs & une deuxième table pour les liens du Maître.
