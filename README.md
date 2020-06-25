@@ -21,7 +21,7 @@ Pour le moment, elles sont tout disponible en format texte dans les classes/sous
 **Manuel des Monstres.**\
 **Règles optionnelles, WOTC, Unearthed Arcana, Sage Advice, D&D Beyond.**
 
-***Vous vous conseil de bloquer la visibilité des joueurs des compendiums avec notion [MD] dans le titre (De 20-30 et celle du compendium de la table de matière du Guide du Maître [MD])***
+***Vous vous conseil de bloquer la visibilité des joueurs des compendiums avec la notion [MD] dans le titre (De 20-30 et celle du compendium de la table de matière du Guide du Maître [MD])***
 
 *J'ai mis plusieurs liens externes vers le site de AideDD pour alléger le module et s'assurer que le jeu reste fluide!*
 
