@@ -39,8 +39,6 @@ Le module est disponible dans **GitLab**
 
 "url": "https://gitlab.com/sticklite13/en-francais-svp", "manifest": "https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json", "download": "https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.1/raw/en-francais-svp.zip?job=build"
 
-`<p><img class="center" style="max-width: 100%; font: inherit; height: auto; margin: 5px auto; padding: 0px; vertical-align: baseline; display: block; border: 0px none currentcolor;" title="" src="http://play.elderultima.com/Foundry_Fr/images/AideDD/Psionique%EF%BB%BF_F_02.png" alt="" width="auto" height="461" />`
-
 
 24 juin 2020
 
