@@ -1,6 +1,6 @@
 Salut,
 
-J'ai incorporé presque tout le contenu de **DD5** disponible sur **AideDD,org** dans un module pour **Foundry VTT**. </p>
+J'ai incorporé presque tout le contenu de **DD5** disponible sur **AideDD,org** dans un module pour **Foundry VTT**.
 J'ai ajouté la source [AideDD.org] en bas de chaque page.
 
 Résumé :
