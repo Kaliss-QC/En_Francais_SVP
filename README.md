@@ -21,8 +21,7 @@ Pour le moment, elles sont tout disponible en format texte dans les classes/sous
 **Manuel des Monstres.**\
 **Règles optionnelles, WOTC, Unearthed Arcana, Sage Advice, D&D Beyond.**
 
-***Vous vous conseil de bloquer la visibilité des joueurs pour les compendiums de 20-30 avec notion [MD] dans le titre.
-Et celle du compendium de la table de matière du Maitre [MD]***
+***Vous vous conseil de bloquer la visibilité des joueurs des compendiums avec notion [MD] dans le titre (De 20-30 et celle du compendium de la table de matière du Guide du Maître [MD])***
 
 *J'ai mis plusieurs liens externes vers le site de AideDD pour alléger le module et s'assurer que le jeu reste fluide!*
 
@@ -73,3 +72,8 @@ Par exemple depuis la table de matières, on peut choisir une classe. Une fois d
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_02_Tables.jpg>)
 
+**25 juin 2020**
+
+Créer des liens dans le livre vers les équipements/objets
+
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_03_objets.jpg>)
