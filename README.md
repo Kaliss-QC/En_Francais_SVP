@@ -40,7 +40,7 @@ https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 "url": "https://gitlab.com/sticklite13/en-francais-svp", "manifest": "https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json", "download": "https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.1/raw/en-francais-svp.zip?job=build"
 https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 
-[b]Lien direct vers le module[/b] depuis mon serveur d'hébergement:
+**Lien direct vers le module** depuis mon serveur d'hébergement:
 http://play.elderultima.com/Foundry_Fr/images/AideDD/En_Francais_SVP.zip
 
 Vous devez le décompresser dans :
