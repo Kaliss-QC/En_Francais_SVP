@@ -26,7 +26,7 @@ Et celle du compendium de la table de matière du Maitre [MD]***
 
 *J'ai mis plusieurs liens externes vers le site de AideDD pour alléger le module et s'assurer que le jeu reste fluide!*
 
-[img]http://play.elderultima.com/Foundry_Fr/images/Divers/Line%209.jpg[/img]
+![<texte>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line%209.jpg>)
 
 **Nom du module : En Francais SVP!!**
 **Version:** 0.2
