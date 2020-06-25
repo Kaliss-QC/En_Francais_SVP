@@ -13,7 +13,7 @@ J'ai ajouté toutes les capacités de chaque classes & sous-classes, races & sou
 J'ai aussi ajouté des liens dans chaque classe vers les capacités disponibles.
 On peut même drag and drop les liens vers les personnages!
 *Par contre Il y a certaine capacité de sous-classes, races & sous-races que les traducteurs officiels n'ont pas encore ajoutées en "item. feet".
-Pour le moment, elles sont tout disponible en format texte dans les classes/sous-classes et races/sous-races (Si je vois que les capacités "item "feet" n'arrive pas assez vite, je vais probablement les crées).*
+Pour le moment, elles sont tout disponible en format texte dans les classes/sous-classes et races/sous-races (Si je vois que les capacités "item/feet" n'arrivent pas assez vite, je vais probablement les crées).*
 **Équipements, Objets magiques.**
 **Sorts** classés d’A-Z, ou par niveau ou par classe & niveau.
 **Beaucoup d’aide pour MD.**
