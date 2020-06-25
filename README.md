@@ -41,10 +41,23 @@ https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 "url": "https://gitlab.com/sticklite13/en-francais-svp", "manifest": "https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json", "download": "https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.1/raw/en-francais-svp.zip?job=build"
 https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 
+[b]Lien direct vers le module[/b] depuis mon serveur d'hébergement:
+[url]http://play.elderultima.com/Foundry_Fr/images/AideDD/En_Francais_SVP.zip[/url]
+
+Vous devez le décompresser dans :
+C:\Users\ VOTRE NOM D'UTILISATEUR \AppData\Local\FoundryVTT\Data\modules\En_Francais_SVP
+
+![<Ligne>](<https://cdn.discordapp.com/attachments/704727729462968348/721287125819064320/Annotation_2020-06-13_043609.jpg>)
+
+![<Ligne>](<https://media.discordapp.net/attachments/716213970297552897/720759575749459998/Annotation_2020-06-11_175720.jpg>)
+
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Horizontal%20Line.jpg>)
+
 24 juin 2020
 
 Petit Update du module, j'ai ajouté des tables matières et bcp de liens entre les pages pour faciliter la navigation.
 
 Par exemple depuis la table de matières, on peut choisir une classe. Une fois dans la classe, on peut clicker sur le lien d'une capacité ou d'une sous-classe (subclasse) même chose pour les races, historiques, sort etc..
 
-https://media.discordapp.net/attachments/716213970297552897/725429855684001893/Table_de_matieres.png?width=2510&height=1365
+![<Ligne>](<https://media.discordapp.net/attachments/716213970297552897/725429855684001893/Table_de_matieres.png>)
+
