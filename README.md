@@ -3,7 +3,7 @@ Salut,
 J'ai incorporé presque tout le contenu de **DD5** disponible sur **AideDD,org** dans un module pour **Foundry VTT**.\
 J'ai ajouté la source [AideDD.org] en bas de chaque page.
 
-Résumé :
+Résumé :\
 **Table des Matières** (C'est le **cœur** du projet, ca permet d'utiliser le module comme un **livre**) pour les liens des joueurs & une deuxième table pour les liens du Maître.\
 **L'introduction**, une page de présentation de **AideDD** avec des liens utiles.\
 **Les règlements, Création de personnage, Personnalité et historique, Caractéristiques, Options de personnalisation, Dons, Aventure, Combat Incantations, Conditions.**\
