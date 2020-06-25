@@ -36,6 +36,8 @@ J'ai envoyé une demande a Foundry VTT pour que le module soit incorporer dans l
 
 Le module est disponible dans [**GitLab**](https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json)
 
+https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
+
 "url": "https://gitlab.com/sticklite13/en-francais-svp", "manifest": "https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json", "download": "https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.1/raw/en-francais-svp.zip?job=build"
 https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 
