@@ -35,14 +35,13 @@ Et celle du compendium de la table de matière du Maitre [MD]***
 J'ai envoyé une demande a Foundry VTT pour que le module soit incorporer dans la liste des modules officiels (c'est en révision).
 
 Le module est disponible dans [**GitLab**](https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json)
-
 https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 
 "url": "https://gitlab.com/sticklite13/en-francais-svp", "manifest": "https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json", "download": "https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.1/raw/en-francais-svp.zip?job=build"
 https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 
 [b]Lien direct vers le module[/b] depuis mon serveur d'hébergement:
-[url]http://play.elderultima.com/Foundry_Fr/images/AideDD/En_Francais_SVP.zip[/url]
+http://play.elderultima.com/Foundry_Fr/images/AideDD/En_Francais_SVP.zip
 
 Vous devez le décompresser dans :
 C:\Users\ VOTRE NOM D'UTILISATEUR \AppData\Local\FoundryVTT\Data\modules\En_Francais_SVP
