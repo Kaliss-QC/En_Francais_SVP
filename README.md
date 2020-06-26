@@ -56,7 +56,7 @@ Adresse du [Manifest](https://gitlab.com/sticklite13/en-francais-svp/-/raw/maste
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Installation_03.png>)
 
 **Deuxième méthode**, par téléchargement:
-[Download](https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.1/raw/en-francais-svp.zip?job=build") https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.1/raw/en-francais-svp.zip?job=build
+[Download](https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.1/raw/en-francais-svp.zip?job=build") https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.1/raw/en-francais-svp.zip?job=build\
 Vous devez le décompresser dans :\
 C:\Users\ VOTRE NOM D'UTILISATEUR \AppData\Local\FoundryVTT\Data\modules\En_Francais_SVP
 
