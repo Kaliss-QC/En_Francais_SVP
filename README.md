@@ -48,7 +48,7 @@ https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 1) Vous ouvrer Foundry et aller à la section des modules et appuyer sur "Installer un module"
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Installation_01.png>)
 
-2) Vous entrer l'adresse du Manifest du module dans l'espace en bas et appuyer sur installation (tout ce fait automatique)
+2) Vous entrer l'adresse du Manifest du module dans l'espace en bas et appuyer sur installation (tout ce fait automatique)\
 Adresse du [Manifest](https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json): https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Installation_02.png>)
 
