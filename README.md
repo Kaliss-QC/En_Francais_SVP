@@ -23,7 +23,8 @@ Pour le moment, elles sont tout disponible en format texte dans les classes/sous
 
 ***Je vous conseil de bloquer la visibilité des joueurs des compendiums avec la notion [MD] dans le titre (de 20-30 et le compendium de la table de matière du Guide du Maître [MD])***
 
-*J'ai mis plusieurs liens externes vers le site de AideDD pour alléger le module et s'assurer que le jeu reste fluide!*
+*J'ai mis plusieurs liens externes vers le site de AideDD pour alléger le module et s'assurer que le jeu reste fluide!/
+J'ai recopié & redimensionné chaque image que j'ai mis sur un serveur externe (600mbps de Upload)*
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
