@@ -52,7 +52,7 @@ https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 Adresse du [Manifest](https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json): https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Installation_02.png>)
 
-3) C'est fait le module est dans votre liste, vous pouvez utilisé l'un des deux boutons pour les updates
+3) C'est fait le module est dans votre liste, vous pouvez utilisé l'un des deux boutons pour les futures updates
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Installation_03.png>)
 
 **Deuxième méthode**, par téléchargement:
