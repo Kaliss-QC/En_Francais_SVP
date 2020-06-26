@@ -63,7 +63,7 @@ C:\Users\ VOTRE NOM D'UTILISATEUR \AppData\Local\FoundryVTT\Data\modules\En_Fran
 Captures d'écran
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_01.jpg>)
 
-![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Horizontal%20Line.jpg>)
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line%209.jpg>)
 
 **24 juin 2020**
 
@@ -80,6 +80,6 @@ Créer des liens dans le livre vers les équipements/objets
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line%209.jpg>)
 
-Pour me contacter le plus simple est Discord Kaliss#6644
+Pour me contacter le plus simple est Discord: Kaliss#6644
 Sticklite@hotmail.com
 Jean-Francois
