@@ -27,10 +27,6 @@ Pour le moment, elles sont tout disponible en format texte dans les classes/sous
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
-![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_02.png>)
-
-![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_03.png>)
-
 **Nom du module : En Francais SVP! (AideDD)**\
 **Version:** 0.4\
 **Dernière mise a jour:** 25 juin 2020\
@@ -40,7 +36,7 @@ J'ai envoyé une demande a Foundry VTT pour que le module soit incorporer dans l
 Le module est disponible dans [**GitLab**](https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json)\
 https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 
-![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line%209.jpg>)
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
 **Installations**
 
@@ -62,12 +58,12 @@ Deuxième méthode, par téléchargement:
 Vous devez le décompresser dans :\
 C:\Users\ VOTRE NOM D'UTILISATEUR \AppData\Local\FoundryVTT\Data\modules\En_Francais_SVP
 
-![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line%209.jpg>)
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
 **Captures d'écran**
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_01.jpg>)
 
-![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line%209.jpg>)
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
 **24 juin 2020**
 
@@ -82,7 +78,7 @@ Créer des liens dans le livre vers les équipements/objets
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_03_objets.jpg>)
 
-![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line%209.jpg>)
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
 Pour me contacter le plus simple est Discord: Kaliss#6644
 Sticklite@hotmail.com
