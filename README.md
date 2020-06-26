@@ -77,3 +77,9 @@ Par exemple depuis la table de matières, on peut choisir une classe. Une fois d
 Créer des liens dans le livre vers les équipements/objets
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_03_objets.jpg>)
+
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line%209.jpg>)
+
+Pour me contacter le plus simple est Discord Kaliss#6644
+Sticklite@hotmail.com
+Jean-Francois
