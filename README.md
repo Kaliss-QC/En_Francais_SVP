@@ -82,6 +82,7 @@ Créer des liens dans le livre vers les équipements/objets
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
-Pour me contacter le plus simple est Discord: Kaliss#6644 \
-Sticklite@hotmail.com \
+Kaliss \
 Jean-Francois \
+Pour me contacter le plus simple est Discord: Kaliss#6644 \
+Sticklite@hotmail.com
