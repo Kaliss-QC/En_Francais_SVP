@@ -30,8 +30,8 @@ J'ai recopié & redimensionné chaque image que j'ai mis sur un serveur externe 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
 **Nom du module : En Francais SVP! (AideDD)**\
-**Version:** 0.4\
-**Dernière mise a jour:** 25 juin 2020\
+**Version:** 0.5\
+**Dernière mise a jour:** 26 juin 2020\
 
 J'ai envoyé une demande a Foundry VTT pour que le module soit incorporer dans la liste des modules officiels (c'est en révision).
 
@@ -79,6 +79,12 @@ Par exemple depuis la table de matières, on peut choisir une classe. Une fois d
 Créer des liens dans le livre vers les équipements/objets
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_03_objets.jpg>)
+
+**25 juin 2020**
+
+Créer des liens dans les classes vers les "items"
+
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_04_Liens_Classes.jpg>)
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
