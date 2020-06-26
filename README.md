@@ -27,9 +27,9 @@ Pour le moment, elles sont tout disponible en format texte dans les classes/sous
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
-![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_02.png>)
 
-![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_03.png>)
 
 **Nom du module : En Francais SVP! (AideDD)**\
 **Version:** 0.4\
