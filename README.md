@@ -63,26 +63,27 @@ C:\Users\ VOTRE NOM D'UTILISATEUR \AppData\Local\FoundryVTT\Data\modules\En_Fran
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
 **Captures d'écran**
+
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_01.jpg>)
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
 **24 juin 2020**
 
-Petit Update du module, j'ai ajouté des tables matières et bcp de liens entre les pages pour faciliter la navigation.\
+V0.3 Petit Update du module, j'ai ajouté des tables matières et bcp de liens entre les pages pour faciliter la navigation.\
 Par exemple depuis la table de matières, on peut choisir une classe. Une fois dans la classe, on peut clicker sur le lien d'une capacité ou d'une sous-classe (subclasse) même chose pour les races, historiques, sort etc..
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_02_Tables.jpg>)
 
 **25 juin 2020**
 
-Créer des liens dans le livre vers les équipements/objets
+V0.4 Créer des liens dans le livre vers les équipements/objets
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_03_objets.jpg>)
 
 **26 juin 2020**
 
-Créer des liens dans les classes vers les "items"
+V0.5 Créer des liens dans les classes vers les "items"
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_04_Liens_Classes.jpg>)
 
