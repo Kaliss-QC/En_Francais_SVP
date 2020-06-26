@@ -25,7 +25,11 @@ Pour le moment, elles sont tout disponible en format texte dans les classes/sous
 
 *J'ai mis plusieurs liens externes vers le site de AideDD pour alléger le module et s'assurer que le jeu reste fluide!*
 
-![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line%209.jpg>)
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
+
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
+
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
 **Nom du module : En Francais SVP! (AideDD)**\
 **Version:** 0.4\
