@@ -80,7 +80,7 @@ Créer des liens dans le livre vers les équipements/objets
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_03_objets.jpg>)
 
-**25 juin 2020**
+**26 juin 2020**
 
 Créer des liens dans les classes vers les "items"
 
