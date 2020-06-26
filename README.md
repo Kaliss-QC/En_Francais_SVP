@@ -60,7 +60,7 @@ C:\Users\ VOTRE NOM D'UTILISATEUR \AppData\Local\FoundryVTT\Data\modules\En_Fran
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line%209.jpg>)
 
-Captures d'écran
+**Captures d'écran**
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_01.jpg>)
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line%209.jpg>)
