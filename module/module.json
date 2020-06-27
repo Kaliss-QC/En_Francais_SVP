@@ -3,7 +3,7 @@
   "title": "En Francais SVP! (AideDD) [DD5]",
   "description": "<p>Incorporation de la traduction du système DD5 disponible sur AideDD.org</p> Règles : Création de personnages, races, classes, historiques, équipement, dons, multiclassage, combat, magie, sorts, conditions, créatures, objets magiques : toutes les règles dont vous avez besoin pour jouer en français.</p> Aides de jeu : Test d'alignement, scénarios clé en main, pleins d'aides de jeu, des suppléments, traductions d'articles des rubriques Unearthed Arcana et Sage Advice de WotC et du site D&D Beyond.</p>",
   "author": "Kaliss",
-  "version": "0.5",
+  "version": "0.6",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.7.0",
   "packs": [
@@ -171,5 +171,5 @@
   ],
   "url": "https://gitlab.com/sticklite13/en-francais-svp",
   "manifest": "https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json",
-  "download": "https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.5/raw/en-francais-svp.zip?job=build"
+  "download": "https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.6/raw/en-francais-svp.zip?job=build"
 }
