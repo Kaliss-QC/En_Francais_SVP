@@ -17,9 +17,9 @@ On peut même drag and drop les liens vers la fiche d'un personnage!\
 Pour le moment, elles sont tout disponible dans le journal en format texte dans les classes/sous-classes et races/sous-races (Si je vois que les capacités "item/feet" n'arrivent pas assez vite, je vais probablement les crées).*\
 **Équipements, Objets magiques.**  j'ai ajouté des liens vers les objets (drag & drop possible)\
 **Liste des Sorts** classés d’A-Z, ou par niveau ou par classe & niveau.\
-**Beaucoup d’aide pour MD.**scénarios "clé en main", pleins d'aides de jeu, des suppléments\
-**Liste des Monstres.**\
-**Règles optionnelles, WOTC, Unearthed Arcana, Sage Advice, D&D Beyond.**
+**Beaucoup d’aide pour MD** scénarios "clé en main", pleins d'aides de jeu, des suppléments\
+**Liste des Monstres**\
+**Règles optionnelles, WOTC, Unearthed Arcana, Sage Advice, D&D Beyond**
 
 ***Il est conseillé de bloquer la visibilité des joueurs sur les compendiums avec la mention"[MD]" dans le titre (de 20-30 + table des matières correspondante)***
 
