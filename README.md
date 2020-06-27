@@ -1,6 +1,6 @@
 Salut,
 
-J'ai incorporé presque tout le contenu de **DD5** disponible sur **AideDD,org** dans **En Francais SVP! (AideDD) [DD5]**, un module pour **Foundry VTT**.\
+J'ai incorporé presque tout le contenu de **DD5** disponible sur **AideDD,org** dans **En Francais SVP! (AideDD) [DD5]**, un module pour **Foundry VTT**.
 
 Résumé :\
 Ce module ajoute une 30ène de compendiums d'entrées de journal remplies de liens permettant de naviguer comme dans un site web.\
@@ -8,17 +8,17 @@ Les compendiums "**Table des matières des joueurs**" et "**Table des matières 
 **L'introduction** à DD5 et l'explication d'un jeu de röle.\
 Une page de présentation de **AideDD** avec des liens utiles.\
 **Les règlements, Création de personnage, Personnalité et historique, Caractéristiques, Options de personnalisation, Dons, Aventure, Combat, Incantations, Conditions.**\
-**Races & sous-races** *(je vais probablement ajouter celles de Héros Dragons dans un dossier à part)*\
-**Classes & sous-classes** *(je vais probablement ajouter celles de Héros Dragons dans un dossier à part)*\
+**Races & sous-races** *(je vais probablement ajouter celles de Héros Dragons dans un compendium à part)*\
+**Classes & sous-classes** *(je vais probablement ajouter celles de Héros Dragons dans un compendium à part)*\
 **Capacités**, J'ai ajouté toutes les capacités de chaque classes & sous-classes, races & sous-races dans les pages.\
 J'ai aussi ajouté des liens dans chaque classe vers les capacités disponibles.\
 On peut même drag and drop les liens vers la fiche d'un personnage!\
 *Par contre, il y a certaines capacités de sous-classes, races & sous-races que les traducteurs officiels n'ont pas encore ajoutées en "item/feet".\
 Pour le moment, elles sont tout disponible dans le journal en format texte dans les classes/sous-classes et races/sous-races (Si je vois que les capacités "item/feet" n'arrivent pas assez vite, je vais probablement les crées).*\
 **Équipements, Objets magiques.**  j'ai ajouté des liens vers les objets (drag & drop possible)\
-**Sorts** classés d’A-Z, ou par niveau ou par classe & niveau.\
-**Beaucoup d’aide pour MD.**\
-**Manuel des Monstres.**\
+**Liste des Sorts** classés d’A-Z, ou par niveau ou par classe & niveau.\
+**Beaucoup d’aide pour MD.**scénarios "clé en main", pleins d'aides de jeu, des suppléments\
+**Liste des Monstres.**\
 **Règles optionnelles, WOTC, Unearthed Arcana, Sage Advice, D&D Beyond.**
 
 ***Il est conseillé de bloquer la visibilité des joueurs sur les compendiums avec la mention"[MD]" dans le titre (de 20-30 + table des matières correspondante)***
@@ -33,10 +33,11 @@ J'ai ajouté la source [AideDD.org] en bas de chacune des pages du journal.*
 **Version:** 0.6\
 **Dernière mise a jour:** 27 juin 2020\
 
-Le module est disponible dans la liste officiel de FoundryVTT\
-[https://foundryvtt.com/packages/En_Francais_SVP](https://foundryvtt.com/packages/En_Francais_SVP)
+Le module est disponible dans la liste officiel de [FoundryVTT](https://foundryvtt.com/packages/En_Francais_SVP)\
+https://foundryvtt.com/packages/En_Francais_SVP
 
 Le module aussi est disponible dans [**GitLab**](https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json)\
+https://gitlab.com/sticklite13/en-francais-svp\
 https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
@@ -77,6 +78,7 @@ C:\Users\ VOTRE NOM D'UTILISATEUR \AppData\Local\FoundryVTT\Data\modules\En_Fran
 **Captures d'écran**
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_01.jpg>)
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_05_Foundry_demo.jpg>)
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
