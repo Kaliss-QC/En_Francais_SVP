@@ -33,7 +33,7 @@ J'ai ajouté la source [AideDD.org] en bas de chacune des pages du journal.*
 **Version:** 0.6\
 **Dernière mise a jour:** 27 juin 2020\
 
-Le module est disponible dans la liste officiel de [FoundryVTT](https://foundryvtt.com/packages/En_Francais_SVP)\
+Le module est disponible dans la liste officiel de [**FoundryVTT**](https://foundryvtt.com/packages/En_Francais_SVP)\
 https://foundryvtt.com/packages/En_Francais_SVP
 
 Le module aussi est disponible dans [**GitLab**](https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json)\
@@ -44,31 +44,36 @@ https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 
 **Installations**
 
-**Première méthode**, par la liste officiel de Foundry (le plus simple et le plus rapide et le module va être ajouté dans dans votre liste de Foundry pour les updates)\
+**Première méthode**, par la liste officiel de Foundry (le plus simple et le plus rapide et le module va être ajouté dans dans votre liste de Foundry pour les updates)
 1) Vous devez ouvrir Foundry et aller à la section des modules et appuyer sur "Installer un module"
+
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Installation_01.png>)
 
 2) Vous pouvez le rechercher en écrivent le nom du module ou l'un des mots (ou une partie du mot) du titre.\
 Ensuite appuyer sur Installation (tout ce fait automatique).
+
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Installation_Recherche_01.jpg>)
 
 3) C'est fait le module est dans votre liste, vous pouvez utiliser l'un des deux boutons pour les futures updates
+
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Installation_03.png>)
 
 **Deuxième méthode**, par Manifest (ça reste facile et le module va être ajouté dans dans votre liste de Foundry pour les updates)\
 [Manifest](https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json): https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 
 1) Vous devez ouvrir Foundry et aller à la section des modules et appuyer sur "Installer un module"
+
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Installation_01.png>)
 
 2) Vous devez saisir l'adresse du Manifest du module dans l'espace en bas et appuyer sur installation (tout ce fait automatique)\
 Adresse du [Manifest](https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json): https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
+
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Installation_02.png>)
 
 3) C'est fait le module est dans votre liste, vous pouvez utilisé l'un des deux boutons pour les futures updates
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Installation_03.png>)
 
-**Dernière méthode**, par téléchargement (non conseillé, car vous devrez faire manuellement chaque update):
+**Dernière méthode**, par téléchargement (non conseillé, car vous devrez faire manuellement chaque update):\
 [Download](https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.1/raw/en-francais-svp.zip?job=build") https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.1/raw/en-francais-svp.zip?job=build \
 Vous devez le décompresser dans :\
 C:\Users\ VOTRE NOM D'UTILISATEUR \AppData\Local\FoundryVTT\Data\modules\En_Francais_SVP
@@ -78,6 +83,7 @@ C:\Users\ VOTRE NOM D'UTILISATEUR \AppData\Local\FoundryVTT\Data\modules\En_Fran
 **Captures d'écran**
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_01.jpg>)
+
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_05_Foundry_demo.jpg>)
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
