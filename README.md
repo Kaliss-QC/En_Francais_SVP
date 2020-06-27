@@ -37,7 +37,7 @@ Le module est disponible dans la liste officiel de [**FoundryVTT**](https://foun
 https://foundryvtt.com/packages/En_Francais_SVP
 
 Le module aussi est disponible dans [**GitLab**](https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json)\
-https://gitlab.com/sticklite13/en-francais-svp\
+https://gitlab.com/sticklite13/en-francais-svp \
 https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
