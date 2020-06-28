@@ -1,6 +1,6 @@
 Salut,
 
-J'ai incorporé presque tout le contenu de **DD5** disponible sur **AideDD,org** dans **En Francais SVP! (AideDD) [DD5]**, un module pour **Foundry VTT**.
+J'ai incorporé presque tout le contenu de **DD5** disponible sur [**AideDD,org**](https://www.aidedd.org/) dans un module pour [**Foundry VTT**](https://foundryvtt.com/).
 
 Résumé :\
 Ce module ajoute une 30ène de compendiums d'entrées de journal remplies de liens permettant de naviguer comme dans un site web.\
@@ -116,7 +116,9 @@ V0.6 Ajouté [DD5] au titre du module et le module a été ajouté à la liste o
 Kaliss \
 Jean-Francois \
 Pour me contacter le plus simple est Discord: Kaliss#6644 \
-Sticklite@hotmail.com
+Sticklite@hotmail.com \
+Si vous avez envie de soutenir mon travail, n'hésitez pas à laisser un pourboire à mon paypal \
+[Paypal](https://paypal.me/sticklite) : https://paypal.me/sticklite
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
@@ -128,6 +130,9 @@ On the website of AideDD.org it’s written:
 Rules: Character creation, races, classes, backgrounds, equipment, feats, multiclassing, combat, magic, spells, conditions, creatures, magic items: all the rules you need to play in french.\
 Tools: Alignment test, ready-to-play adventures, lots of usefull tools, extras, translations of articles from the Unearthed Arcana and Sage Advice sections of WotC and the D&D Beyond website."*
 
-"Kaliss" Jean-Francois\
-Contact me preferably on Discord Kaliss#6644\
-Or by mail Sticklite@hotmail.com
+Kaliss \
+Jean-Francois \
+Contact me preferably on Discord Kaliss#6644 \
+Or by mail Sticklite@hotmail.com \
+If you feel like supporting my work, feel free to leave a tip at my paypal
+[Paypal](https://paypal.me/sticklite) : https://paypal.me/sticklite
