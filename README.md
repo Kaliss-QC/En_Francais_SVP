@@ -30,7 +30,7 @@ J'ai ajouté la source [AideDD.org] en bas de chacune des pages du journal.*
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
 **Nom du module : En Francais SVP! (AideDD) [DD5]**\
-**Version:** 0.6\
+**Version:** 0.7\
 **Dernière mise a jour:** 27 juin 2020\
 
 Le module est disponible dans la liste officiel de [**FoundryVTT**](https://foundryvtt.com/packages/En_Francais_SVP)\
@@ -110,6 +110,7 @@ V0.5 Créé des liens dans les classes vers les "items"
 **27 juin 2020**
 
 V0.6 Ajouté [DD5] au titre du module et le module a été ajouté à la liste officiel de Foundry VTT 
+V0.7 Changé quelques termes et titres 
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
