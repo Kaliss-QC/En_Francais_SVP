@@ -42,6 +42,14 @@ https://gitlab.com/sticklite13/en-francais-svp \
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
+**Captures d'écran**
+
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_01.jpg>)
+
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_05_Foundry_demo.jpg>)
+
+![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
+
 **Installations**
 
 **Première méthode**, par la liste officiel de Foundry (le plus simple et le plus rapide et le module va être ajouté dans dans votre liste de Foundry pour les updates)
@@ -77,14 +85,6 @@ Adresse du [Manifest](https://gitlab.com/sticklite13/en-francais-svp/-/raw/maste
 [Download](https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.1/raw/en-francais-svp.zip?job=build") https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.1/raw/en-francais-svp.zip?job=build \
 Vous devez le décompresser dans :\
 C:\Users\ VOTRE NOM D'UTILISATEUR \AppData\Local\FoundryVTT\Data\modules\En_Francais_SVP
-
-![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
-
-**Captures d'écran**
-
-![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_01.jpg>)
-
-![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Screenshot_05_Foundry_demo.jpg>)
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
