@@ -1,6 +1,6 @@
 Salut,
 
-J'ai incorporé presque tout le contenu de **DD5** disponible sur [**AideDD,org**](https://www.aidedd.org/) dans un module pour [**Foundry VTT**](https://foundryvtt.com/).
+J'ai incorporé presque tout le contenu de **DD5** disponible sur [**AideDD.org**](https://www.aidedd.org/) dans un module pour [**Foundry VTT**](https://foundryvtt.com/).
 
 Résumé :\
 Ce module ajoute une 30ène de compendiums d'entrées de journal remplies de liens permettant de naviguer comme dans un site web.\
