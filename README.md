@@ -118,7 +118,7 @@ Kaliss \
 Pour me contacter le plus simple est Discord: Kaliss#6644 \
 Sticklite@hotmail.com \
 Si vous avez envie de soutenir mon travail, n'hésitez pas à laisser un pourboire à mon paypal \
-[Paypal](https://paypal.me/sticklite) : https://paypal.me/kaliss
+[Paypal](https://paypal.me/sticklite) : https://paypal.me/KalissQC
 
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
@@ -134,4 +134,4 @@ Kaliss \
 Contact me preferably on Discord Kaliss#6644 \
 Or by mail Sticklite@hotmail.com \
 If you feel like supporting my work, feel free to leave a tip at my paypal
-[Paypal](https://paypal.me/sticklite) : https://paypal.me/kaliss
+[Paypal](https://paypal.me/sticklite) : https://paypal.me/KalissQC
