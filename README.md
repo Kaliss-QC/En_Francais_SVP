@@ -131,7 +131,6 @@ Rules: Character creation, races, classes, backgrounds, equipment, feats, multic
 Tools: Alignment test, ready-to-play adventures, lots of usefull tools, extras, translations of articles from the Unearthed Arcana and Sage Advice sections of WotC and the D&D Beyond website."*
 
 Kaliss \
-Jean-Francois \
 Contact me preferably on Discord Kaliss#6644 \
 Or by mail Sticklite@hotmail.com \
 If you feel like supporting my work, feel free to leave a tip at my paypal
