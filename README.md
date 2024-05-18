@@ -115,7 +115,6 @@ V0.7 Changé quelques termes et titres
 ![<Ligne>](<http://play.elderultima.com/Foundry_Fr/images/Divers/Line_Divider_01.png>)
 
 Kaliss \
-Jean-Francois \
 Pour me contacter le plus simple est Discord: Kaliss#6644 \
 Sticklite@hotmail.com \
 Si vous avez envie de soutenir mon travail, n'hésitez pas à laisser un pourboire à mon paypal \
